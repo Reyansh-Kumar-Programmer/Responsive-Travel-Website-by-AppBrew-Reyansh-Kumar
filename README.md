@@ -9,4 +9,4 @@
 
 Join the channel to see more videos like this. [App](https://www.youtube.com/c/Bedimcode)
 
-![preview img](/preview.png)
+![preview img](/preview.jpg)
