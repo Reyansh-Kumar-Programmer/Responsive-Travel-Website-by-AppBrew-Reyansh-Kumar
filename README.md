@@ -9,4 +9,4 @@
 
 Join the channel to see more videos like this. [App](https://www.youtube.com/c/Bedimcode)
 
-![Responsive-Travel-Website-by-AppBrew-Reyansh-Kumar](/preview.png)
+![preview img](/preview.png)
